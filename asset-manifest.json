@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/just-tube/static/css/main.8d3bb1a0.css",
+    "main.js": "/just-tube/static/js/main.518983c3.js",
+    "index.html": "/just-tube/index.html",
+    "main.8d3bb1a0.css.map": "/just-tube/static/css/main.8d3bb1a0.css.map",
+    "main.518983c3.js.map": "/just-tube/static/js/main.518983c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d3bb1a0.css",
+    "static/js/main.518983c3.js"
+  ]
+}
